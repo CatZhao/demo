@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "com.zxx",
+      "type": "com.zxx.ZxxProperties",
+      "sourceType": "com.zxx.ZxxProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "com.zxx.name",
+      "type": "java.lang.String",
+      "sourceType": "com.zxx.ZxxProperties"
+    }
+  ],
+  "hints": []
+}
